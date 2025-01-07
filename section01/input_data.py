@@ -1,7 +1,7 @@
 """
 Recebendo dados do usuário
 
-Input() -> Todo dado recebido via input é do tipo "str", também conhecido como String
+input() -> Todo dado recebido via input é do tipo "str", também conhecido como String
 """
 
 # Entrada de dados
